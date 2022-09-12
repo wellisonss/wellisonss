@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wellisonss
+- 👋 Hi, I’m Wellison Santos
 - 👀 I’m interested in node.js and vue.js
 - 🌱 I’m currently learning node.js and vue.js
 - 📫 How to reach me "silva.s.wellison@gmail.com"
